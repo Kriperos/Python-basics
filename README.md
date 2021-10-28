@@ -1,1 +1,2 @@
 # Python-basics
+Poidstawy pythona 
